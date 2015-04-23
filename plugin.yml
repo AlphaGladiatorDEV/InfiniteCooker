@@ -1,0 +1,9 @@
+name: InfiniteCooker
+main: com.infinity.cook.Main
+version: 1.0
+author: xXInfinityXx
+description: Cook anything with one simple command!
+commands:
+  cook:
+    description: Cooks the item(s) in your hand.
+    usage: /<command> 
